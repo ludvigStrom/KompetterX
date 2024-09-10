@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Business_Card-eagle-import")(type "Legacy")(uri "${KIPRJMOD}/New_Business_Card-eagle-import.lib")(options "")(descr ""))
+  (lib (name "Bussiness-card_custom_symbols")(type "Legacy")(uri "${KIPRJMOD}/Bussiness-card_custom_symbols.lib")(options "")(descr ""))
+  (lib (name "New Business Card-rescue")(type "KiCad")(uri "${KIPRJMOD}/New Business Card-rescue.kicad_sym")(options "")(descr ""))
+)

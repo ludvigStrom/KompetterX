@@ -1,0 +1,8 @@
+usbHidReport.c:11:6:usbHidInit	1
+usbHidReport.c:23:6:usbHidAddKey	3
+usbHidReport.c:32:6:usbHidRemoveKey	3
+usbHidReport.c:41:6:usbHidHandleMacro	2
+usbHidReport.c:60:6:usbHidSendKeyboardReport	1
+usbHidReport.c:75:9:usbHidkeyReportChanged	3
+usbHidReport.c:87:6:usbHidUpdateMouseReport	1
+usbHidReport.c:94:6:usbHidSendMouseReport	1

@@ -1,0 +1,5 @@
+queue.c:4:6:queueInit	1
+queue.c:11:9:queueIsEmpty	1
+queue.c:15:6:queueEnqueue	2
+queue.c:24:7:queueDequeue	3
+queue.c:42:9:queueIsFull	1

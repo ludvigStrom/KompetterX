@@ -1,0 +1,6 @@
+angleSensor.c:14:6:angleSensorInit	1
+angleSensor.c:19:10:AS5600_ReadAngle	1
+angleSensor.c:33:9:AS5600_ReadStatus	1
+angleSensor.c:43:9:AS5600_IsMagnetPresent	3
+angleSensor.c:57:9:encoderValueFunction	5
+angleSensor.c:83:6:angleSensorScrollScan	2
